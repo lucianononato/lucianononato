@@ -1,8 +1,7 @@
 ## Olá! Eu sou Luciano Nonato
 
-- 🔭 Hoje Faço Analise e Desenvolvimento de Sistema  
-- 🌱 Estudando JavaScript
-- 😄 Pronouns: ele/dele
+- 🔭 Dono da Space Enma   
+- 🌱 Criando Sites Para Empresas
 
 <div align="left">
   <a href="https://github.com/lucianononato">
